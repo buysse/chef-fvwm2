@@ -6,6 +6,6 @@
 # Licensed under Apache v2.0 License
 #
 
-package "fvwm2"
+package "fvwm"
 package "fvwm-icons"
 package "stalonetray"
